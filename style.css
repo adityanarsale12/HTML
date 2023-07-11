@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#navbar {
+    height: 60px;
+    background-color: palevioletred;
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 25px;
+    margin-left: 75px;
+}
+
+#logo {
+    font-size: 30px;
+    color: black;
+    font-family: 'Outfit', sans-serif;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+#no {
+    margin-left: 55px;
+    margin-top: 7px;
+    font-size: 30px;
+    font-family: 'Outfit', sans-serif;
+}
+
+#body {
+    padding-left: 7px;
+}
+
+#heading {
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+}
+
+#heading2 {
+    font-family: 'Lexend', sans-serif;
+}
+
+#para1 {
+    font-family: 'Lexend', sans-serif;
+    font-size: 18px;
+}
+
+#level1 {
+    font-size: 30px;
+    color: brown;
+}
+
+#level2 {
+    font-size: 30px;
+    color: brown;
+}
+
+#level3 {
+    font-size: 30px;
+    color: brown;
+}
+
+#table1 {
+    font-family: 'Alata', sans-serif;
+    font-size: 18px;
+}
+
+footer {
+    background-color: rgb(43, 41, 43);
+    height: 70px;
+    text-align: start;
+    color: white;
+    font-size: 25px;
+    font-family: 'Outfit', sans-serif;
+}
